@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "component/jquery": "*",
+    "brighthas/bootstrap": "*"
+  },
+  "local": [
+    "app"
+  ],
+  "development": {},
+  "paths": [
+    "components"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "repo": "app/app",
+  "description": "app",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "app.css"
+  ]
+}
