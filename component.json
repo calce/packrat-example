@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "component/jquery": "*"
   },
   "local": [
     "app"
