@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "component/jquery": "*",
-    "brighthas/bootstrap": "*"
+    "component/jquery": "*"
   },
   "local": [
     "app"
